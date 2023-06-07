@@ -34,8 +34,8 @@ Para mais informações sobre os termos e condições da licença, consulte o ar
 
 ## Contato
 
-<img src="https://avatars.githubusercontent.com/u/97479966" width="100
+<img src="https://avatars.githubusercontent.com/u/97479966" width="100"/>
 
-[![span](https://avatars.githubusercontent.com/u/97479966)![span](https://placehold.co/10x100/f03c15/f03c15.png)](https://link1.com)
+[![span](https://avatars.githubusercontent.com/u/97479966?w=100)![span](https://placehold.co/10x100/f03c15/f03c15.png)](https://link1.com)
 
 [![Botão 2](link img)](https://link2.com)
