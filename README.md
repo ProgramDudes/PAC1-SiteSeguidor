@@ -34,10 +34,6 @@ Para mais informações sobre os termos e condições da licença, consulte o ar
 
 ## Contato
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![]((https://avatars.githubusercontent.com/u/97479966))  |  ![](https://placehold.co/10x100/f03c15/f03c15.png)
-
-[![span]()](https://link1.com)|[![span](https://placehold.co/10x100/f03c15/f03c15.png)](https://link1.com)
+[[![span](https://avatars.githubusercontent.com/u/97479966)](https://link1.com)][![span](https://placehold.co/10x100/f03c15/f03c15.png)](https://link1.com)
 
 [![Botão 2](link img)](https://link2.com)
