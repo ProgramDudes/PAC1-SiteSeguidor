@@ -34,9 +34,7 @@ Para mais informações sobre os termos e condições da licença, consulte o ar
 
 ## Contato
 
-<div bgcolor="orange" width="100">
-    <img src="https://avatars.githubusercontent.com/u/97479966" alt="Imagem" width="50" border-radius="30px">
- </div>
+<p bgcolor="blue" color="red">teste</p>
 
 [<img src="https://avatars.githubusercontent.com/u/97479966" width="100"/>![span](https://placehold.co/10x100/f03c15/f03c15.png)<h2></h2>](https://link1.com)
 
