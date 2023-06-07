@@ -6,6 +6,7 @@ Este projeto é um site desenvolvido para fornecer aulas e recursos educacionais
 
 Confira o protótipo do site no Figma: [Protótipo](inserir-link-do-figma-aqui)
 | teste | teste |
+|-------|-------|
 
 ## Aulas e Conteúdos
 
