@@ -34,7 +34,7 @@ Para mais informações sobre os termos e condições da licença, consulte o ar
 
 ## Contato
 
-<div style="background-color: orange; padding: 20px;">
+<div background-color="orange" padding="20px">
     <img src="https://avatars.githubusercontent.com/u/97479966" alt="Imagem" style="border-radius: 30px">
  </div>
 
