@@ -34,5 +34,5 @@ Para mais informações sobre os termos e condições da licença, consulte o ar
 
 ## Contato
 
-[<img src="https://avatars.githubusercontent.com/u/97479966" width="60"/>![span](https://placehold.co/10x60/f03c15/f03c15.png)![span](https://placehold.co/300x60/000000/FFFFFF/png?text=Victor%20Rocha)](https://link1.com)
+[<img src="https://avatars.githubusercontent.com/u/97479966" width="60"/>![span](https://placehold.co/10x60/f03c15/f03c15.png)![span](https://placehold.co/260x60/000000/FFFFFF/png?text=Victor%20Rocha)](https://link1.com)
 
