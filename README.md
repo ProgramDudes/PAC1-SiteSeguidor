@@ -39,3 +39,5 @@ Para mais informações sobre os termos e condições da licença, consulte o ar
 [<img src="https://avatars.githubusercontent.com/u/86015415" width="60"/>![span](https://placehold.co/10x60/0000FF/0000FF.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Leonardo%20Sakaguti)](https://leosakaguti.github.io)
 
 [<img src="https://avatars.githubusercontent.com/u/61090154" width="60"/>![span](https://placehold.co/10x60/0000FF/0000FF.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Arthur%20Hassuma)](https://arthurhassuma.github.io)
+
+[<img src="https://avatars.githubusercontent.com/u/128716535" width="60"/>![span](https://placehold.co/10x60/0000FF/0000FF.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=André%20Specht)](https://andreespecht.github.io)
