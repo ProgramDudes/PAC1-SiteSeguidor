@@ -12,7 +12,7 @@ As aulas e conteúdos estão organizados em um documento no Notion: [Aulas](inse
 
 ## Demonstração
 
-Você pode visualizar o site ao vivo no GitHub Pages: [Site](inserir-link-do-githubpages-aqui)
+Você pode visualizar o site ao vivo no GitHub Pages: [Site](https://victorrochar.github.io/PAC1-SiteSeguidor/)
 
 ## Licença
 
