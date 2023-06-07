@@ -36,10 +36,10 @@ Para mais informações sobre os termos e condições da licença, consulte o ar
 
 [<img src="https://avatars.githubusercontent.com/u/97479966" width="60"/>![span](https://placehold.co/10x60/f03c15/f03c15.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Victor%20Rocha)](https://victorrochar.github.io)
 
-[<img src="https://avatars.githubusercontent.com/u/86015415" width="60"/>![span](https://placehold.co/10x60/0000FF/0000FF.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Leonardo%20Sakaguti)](https://leosakaguti.github.io)
+[<img src="https://avatars.githubusercontent.com/u/86015415" width="60"/>![span](https://placehold.co/10x60/007f3f/007f3f.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Leonardo%20Sakaguti)](https://leosakaguti.github.io)
 
 [<img src="https://avatars.githubusercontent.com/u/61090154" width="60"/>![span](https://placehold.co/10x60/0000FF/0000FF.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Arthur%20Hassuma)](https://arthurhassuma.github.io)
 
-[<img src="https://avatars.githubusercontent.com/u/128716535" width="60"/>![span](https://placehold.co/10x60/0000FF/0000FF.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=André%20Specht)](https://andreespecht.github.io)
+[<img src="https://avatars.githubusercontent.com/u/128716535" width="60"/>![span](https://placehold.co/10x60/800080/800080.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=André%20Specht)](https://andreespecht.github.io)
 
 [<img src="https://avatars.githubusercontent.com/u/135883850" width="60"/>![span](https://placehold.co/10x60/0000FF/0000FF.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Pablo%20Schüller)](https://pablitodogremio.github.io)
