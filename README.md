@@ -48,4 +48,4 @@ Para mais informações sobre os termos e condições da licença, consulte o ar
 
 [<img src="https://avatars.githubusercontent.com/u/127154329" width="60"/>![span](https://placehold.co/10x60/FFFF00/FFFF00.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Nicolas%20Kasteller)](https://nicolaskasteller.github.io)
 
-[<img src="https://avatars.githubusercontent.com/u/" width="60"/>![span](https://placehold.co/10x60/808080/808080.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Endric%20Fruhauf)](https://endricfruhauf.github.io)
+[<img src="https://avatars.githubusercontent.com/u/" width="60"/>![span](https://placehold.co/10x60/808080/808080.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Endric%20Frühauf)](https://endricfruhauf.github.io)
