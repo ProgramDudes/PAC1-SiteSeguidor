@@ -5,8 +5,6 @@ Este projeto é um site desenvolvido para fornecer aulas e recursos educacionais
 ## Protótipo
 
 Confira o protótipo do site no Figma: [Protótipo](inserir-link-do-figma-aqui)
-| teste | teste |
-|-------|-------|
 
 ## Aulas e Conteúdos
 
@@ -15,6 +13,8 @@ As aulas e conteúdos estão organizados em um documento no Notion: [Aulas](inse
 ## Demonstração
 
 Você pode visualizar o site ao vivo no GitHub Pages: [Site](https://victorrochar.github.io/PAC1-SiteSeguidor/)
+| foto1 | foto2 |
+| foto1 | foto2 |
 
 ## Licença
 
