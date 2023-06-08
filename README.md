@@ -13,9 +13,9 @@ As aulas e conteúdos estão organizados em um documento no Notion: [Aulas](inse
 ## Demonstração
 
 Você pode visualizar o site ao vivo no GitHub Pages: [Site](https://victorrochar.github.io/PAC1-SiteSeguidor/)
-| foto1 | foto2 | foto3 |
+| <img src="./READMEsrc/pag1.png"/> | <img src="./READMEsrc/pag1.png"/>  | <img src="./READMEsrc/pag1.png"/>  |
 | ----- | ----- | ----- |
-| foto1 | foto2 | foto3 |
+| <p align="center">Home</p> | foto2 | foto3 |
 
 ## Licença
 
