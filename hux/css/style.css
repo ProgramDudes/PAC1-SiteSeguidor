@@ -66,15 +66,14 @@ h1{
 
 .handpc{
     position: absolute;
-    top: 30%;
-    left: 20%;
+    top: 33%;
+    left: 30%;
 }
 
 .handimg{
-    width: 50vw;
-    margin-top: -15%;
+    width: 40vw;
 }
 
 .pcimg{
-    width: 50vw;
+    width: 35vw;
 }
