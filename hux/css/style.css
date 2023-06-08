@@ -19,6 +19,13 @@ ul{
     justify-content: space-between;
 }
 
+.logo{
+    position: absolute;
+    right: 0;
+    border-radius: 30pt;
+    width: 7vw;
+}
+
 a{
     font-size: 1.5vw;
     text-decoration: none;
@@ -31,7 +38,7 @@ a{
 
 .bg{
     width: 99vw;
-    height: 99vh;
+    height: 300vh;
     margin: 0;
     background-color: #59DCCC;
 }
@@ -55,4 +62,19 @@ h1{
     transform: translateX(-57%);
     top: 25%;
     font-size: 6vw;
+}
+
+.handpc{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+
+.handimg{
+    width: 50vw;
+    margin-top: -15%;
+}
+
+.pcimg{
+    width: 50vw;
 }
