@@ -12,7 +12,7 @@ As aulas e conteúdos estão organizados em um documento no Notion: [Aulas](inse
 
 ## Demonstração
 
-Você pode visualizar o site ao vivo no GitHub Pages: [Site](https://programdudes.github.io/PAC1-SiteSeguidor/){:target="_blank"}
+Você pode visualizar o site ao vivo no GitHub Pages: <a href="(https://programdudes.github.io/PAC1-SiteSeguidor/)" target="_blank">Site</a>
 | <img src="./READMEsrc/pag1.png"/> | <img src="./READMEsrc/pag1.png"/>  | <img src="./READMEsrc/pag1.png"/>  |
 | ----- | ----- | ----- |
 | <p align="center">Home</p> | foto2 | foto3 |
