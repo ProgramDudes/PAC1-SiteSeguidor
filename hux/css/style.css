@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+body{
+    overflow-x: hidden;
+}
+
+header{
+    top: 5%;
+    position: fixed;
+    width: 35vw;
+    left: 50%;
+    transform: translateX(-50%);
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+a{
+    font-size: 1.5vw;
+    text-decoration: none;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;   
+}
+
+/*TODO a hover*/
+
+.bg{
+    width: 99vw;
+    height: 99vh;
+    margin: 0;
+    background-color: #59DCCC;
+}
+
+h1{
+    margin: 0;
+    font-family: 'Cookie', cursive;
+}
+
+.fol{
+    position:absolute;
+    left: 50%;
+    transform: translateX(-60%);
+    top: 20%;
+    font-size: 4vw;
+}
+
+.tli{
+    position:absolute;
+    left: 50%;
+    transform: translateX(-57%);
+    top: 25%;
+    font-size: 6vw;
+}
