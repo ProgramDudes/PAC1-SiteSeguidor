@@ -1,4 +1,4 @@
-# PAC1-SiteSeguidor
+# SiteSeguidor
 
 Este projeto é um site desenvolvido para fornecer aulas e recursos educacionais sobre robótica, programação e eletrônica básicas.
 
