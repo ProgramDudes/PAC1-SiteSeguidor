@@ -49,4 +49,8 @@ Para mais informações sobre os termos e condições da licença, consulte o ar
 
 [<img src="https://avatars.githubusercontent.com/u/127154329" width="60"/>![span](https://placehold.co/10x60/FFFF00/FFFF00.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Nicolas%20Kasteller)](https://nicolaskasteller.github.io)
 
+[<img src="https://avatars.githubusercontent.com/u/136010433?s=200&v=4" width="100"/>![span](https://placehold.co/10x100/808080/808080.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Program%20dudes)](https://programdudes.github.io)
+
+## A Equipe
+A Program Dudes é uma equipe de desenvolvimento formada por universitários de Engenharia de Software
 [<img src="https://avatars.githubusercontent.com/u/127156064" width="60"/>![span](https://placehold.co/10x60/808080/808080.png)![span](https://placehold.co/220x60/000000/FFFFFF/png?text=Endric%20Frühauf)](https://endricfruhauf.github.io)
